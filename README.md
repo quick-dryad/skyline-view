@@ -37,8 +37,8 @@ No transactions are signed or sent on-chain, making it safe for users to inspect
 
 - **contracts/**  
   Contains Solidity contracts deployed to Base Sepolia for testing and validation:
-  - `your_contract.sol`  
-  - `your_contract.sol`  
+  - `contract.sol`  
+  - `ERC20.sol`  
   - `minimaltoken.sol`  
 
 
@@ -108,9 +108,9 @@ Copyright (c) 2025 YOUR_NAME
 
 ## Author
 
-GitHub: [your-handle](https://github.com/your-handle)  
+GitHub: [quick-dryad](https://github.com/quick-dryad)  
 
-Email: you@example.com  
+Email: quick_dryad_0v@icloud.com
 
 ---
 
