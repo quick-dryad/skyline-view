@@ -1,0 +1,16 @@
+{
+  "__file": "package.json",
+  "name": "skyline-view",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "viem": "latest",
+    "axios": "latest",
+
+    "base-node": "github:base/node",
+    "coinbase-wallet-sdk": "github:coinbase/wallet-sdk"
+  }
+}
